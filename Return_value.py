@@ -5,7 +5,7 @@ def square(argument):
     return total
 
 a = square(6) #input value
-print(a)
+print(a) #output value
 
 print('+'*100)
 
@@ -22,4 +22,4 @@ def multiplication(argument1,argument2):
 
 b = multiplication(5,addition(5,8)) #input value
 
-print(b)
+print(b) #output value
