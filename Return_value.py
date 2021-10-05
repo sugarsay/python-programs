@@ -1,4 +1,4 @@
-# function with return valu
+# function with return value
 def square(argument):
     total = argument**2
     print('The squared value of',argument,'is:',total)
